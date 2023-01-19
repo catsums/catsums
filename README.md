@@ -14,12 +14,17 @@ I'm a multimedia artist and developer who specialises in:
 #### Web Dev Techs
 
 [![My Skills](https://skillicons.dev/icons?i=webpack,jquery,sass,regex,mongodb,express,react,nodejs,bootstrap,tailwind,heroku,mysql,php,&perline=5)](https://skillicons.dev)
+ 
+ <div align="left">
+ 
 ##### Including:
  - `LottieTools`
  - `AnimeJS`
  - `Redis`
  - `SocketIO`
  - `Render`
+ 
+ </div>
 
 #### Game Dev
 
@@ -29,31 +34,42 @@ I'm a multimedia artist and developer who specialises in:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,cpp,cs,dotnet,haxe,wasm&perline=5)](https://skillicons.dev)
 
+ <div align="left">
+ 
 ##### Including:
 - `English`
 - `French`
 - `Sugondese`
+  
+ </div>
 
 #### Graphics and Visuals
 
 [![My Skills](https://skillicons.dev/icons?i=ae,pr,ai,sketchup,autocad,xd,figma&perline=5)](https://skillicons.dev)
 
+ 
+ <div align="left">
+ 
 ##### Including:
 - `Krita`
 - `Adobe Animate`
 - `Adobe InDesign`
 - `Sony Vegas Pro`
 - `FireAlpaca`
+  
+ </div>
 
 #### IDEs
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,&perline=5)](https://skillicons.dev)
  
+ <div align="left">
+ 
 ##### Including:
  - `Sublime Text 4`
  - `Codux`
-
-### Socials
+  
+ </div>
 
 </div>
 
