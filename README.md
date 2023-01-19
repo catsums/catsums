@@ -26,11 +26,11 @@ I'm a multimedia artist and developer who specialises in:
  
  </div>
 
-#### Game Dev
+#### Game Dev Techs
 
 [![My Skills](https://skillicons.dev/icons?i=godot,unity,gamemakerstudio,haxeflixel&perline=5)](https://skillicons.dev)
 
-#### Languages
+#### Coding Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,cpp,cs,dotnet,haxe,wasm&perline=5)](https://skillicons.dev)
 
@@ -43,9 +43,9 @@ I'm a multimedia artist and developer who specialises in:
   
  </div>
 
-#### Graphics and Visuals
+#### Apps and Software
 
-[![My Skills](https://skillicons.dev/icons?i=ae,pr,ai,sketchup,autocad,xd,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,pr,ai,sketchup,autocad,xd,figma,vscode,visualstudio,idea&perline=5)](https://skillicons.dev)
 
  
  <div align="left">
@@ -56,16 +56,6 @@ I'm a multimedia artist and developer who specialises in:
 - `Adobe InDesign`
 - `Sony Vegas Pro`
 - `FireAlpaca`
-  
- </div>
-
-#### IDEs
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,&perline=5)](https://skillicons.dev)
- 
- <div align="left">
- 
-##### Including:
  - `Sublime Text 4`
  - `Codux`
   
