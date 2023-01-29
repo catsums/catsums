@@ -30,7 +30,7 @@ I'm a multimedia artist and developer who specialises in:
 
 [![My Skills](https://skillicons.dev/icons?i=godot,unity,gamemakerstudio,haxeflixel&perline=5)](https://skillicons.dev)
 
-#### Coding Languages
+#### Coding/Markup Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,cpp,cs,dotnet,haxe,wasm&perline=5)](https://skillicons.dev)
 
