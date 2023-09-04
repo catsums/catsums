@@ -2,6 +2,11 @@
 <kbd>
  And I caught you lurkin'...
 </kbd>
+
+<img src="https://myreadme.vercel.app/api/embed/catsums?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=catsums&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 <hr/>
 
 I'm a multimedia artist and developer who specialises in:
@@ -9,6 +14,9 @@ I'm a multimedia artist and developer who specialises in:
 - **Web Design** comprising of **Full Stack** Development
 - **UI/UX** Design and Multimedia Research
 - Game Development
+- 
+I'm currently a BIS Multimedia Final Year Student at University of Pretoria.
+
 <div align="center">
 
 <hr/>
@@ -122,11 +130,6 @@ I'm a multimedia artist and developer who specialises in:
 
 <hr/>
 
-I'm currently a BIS Multimedia Final Year Student at University of Pretoria.
-
-<img src="https://myreadme.vercel.app/api/embed/catsums?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=catsums&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <kbd>
 As of yet, I haven't made any of my large projects, so stay tuned or hit me up so I can privately show you.
