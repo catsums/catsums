@@ -3,12 +3,6 @@
  And I caught you lurkin'...
 </kbd>
 
-<img src="https://myreadme.vercel.app/api/embed/catsums?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=catsums&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-<hr/>
-
 I'm a multimedia artist and developer who specialises in:
 - **Illustration** and **Animation**
 - **Web Design** comprising of **Full Stack** Development
@@ -129,6 +123,10 @@ I'm currently a BIS Multimedia Final Year Student at University of Pretoria.
 </div>
 
 <hr/>
+
+<img src="https://myreadme.vercel.app/api/embed/catsums?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=catsums&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 <kbd>
