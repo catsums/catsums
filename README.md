@@ -1,8 +1,6 @@
 # This is Catsum's page
  `And I caught you lurkin'`
 
-<img src="https://myreadme.vercel.app/api/embed/catsums?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 I'm a multimedia artist and developer who specialises in:
 - **Illustration** and **Animation**
 - **Web Design** comprising of **Full Stack** Development
@@ -43,8 +41,6 @@ I'm a multimedia artist and developer who specialises in:
   
  </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=catsums&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 #### Apps and Software
 
 [![My Skills](https://skillicons.dev/icons?i=ae,pr,ai,sketchup,autocad,xd,figma,vscode,visualstudio,idea&perline=5)](https://skillicons.dev)
@@ -67,5 +63,9 @@ I'm a multimedia artist and developer who specialises in:
 
 
 I'm currently a BIS Multimedia Final Year Student at University of Pretoria.
+
+<img src="https://myreadme.vercel.app/api/embed/catsums?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=catsums&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 As of yet, I haven't made any of my large projects, so stay tuned or hit me up so I can privately show you.
