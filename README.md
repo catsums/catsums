@@ -1,7 +1,7 @@
 # This is Catsum's page
  `And I caught you lurkin'`
 
-
+<img src="https://myreadme.vercel.app/api/embed/catsums?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 I'm a multimedia artist and developer who specialises in:
 - **Illustration** and **Animation**
