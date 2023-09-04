@@ -43,7 +43,7 @@ I'm a multimedia artist and developer who specialises in:
   
  </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=catsums&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 #### Apps and Software
 
