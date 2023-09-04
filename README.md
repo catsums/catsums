@@ -43,6 +43,8 @@ I'm a multimedia artist and developer who specialises in:
   
  </div>
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=catsums&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 #### Apps and Software
 
 [![My Skills](https://skillicons.dev/icons?i=ae,pr,ai,sketchup,autocad,xd,figma,vscode,visualstudio,idea&perline=5)](https://skillicons.dev)
