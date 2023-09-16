@@ -31,6 +31,7 @@ I'm currently a BIS Multimedia Final Year Student at University of Pretoria.
 [`Bootstrap`](https://getbootstrap.com)
 
 ##### Misc Tools
+[`Bun`](https://bun.sh)
 [`Webpack`](https://webpack.js.org)
 [`AnimeJS`](https://animejs.com)
 [`SocketIO`](https://socket.io)
