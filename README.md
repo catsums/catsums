@@ -5,10 +5,10 @@
 
 I'm a multimedia artist and developer who specialises in:
 - **Illustration** and **Animation**
-- **Web Design** comprising of **Full Stack** Development
+- **Full Stack** Development
 - **UI/UX** Design and Multimedia Research
 - Game Development
-- 
+
 I'm currently a BIS Multimedia Final Year Student at University of Pretoria.
 
 <div align="center">
