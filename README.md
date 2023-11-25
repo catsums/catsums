@@ -17,7 +17,7 @@ I'm currently a BIS Multimedia Final Year Student at University of Pretoria.
 
 ### Web Dev Tools
 
-[![My Skills](https://skillicons.dev/icons?i=webpack,jquery,sass,mongodb,express,react,nodejs,bootstrap,tailwind,heroku,mysql,php,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webpack,vite,jquery,sass,mongodb,express,react,nodejs,bootstrap,tailwind,heroku,mysql,php,&perline=5)](https://skillicons.dev)
 
  <div align="left">
   
@@ -33,6 +33,8 @@ I'm currently a BIS Multimedia Final Year Student at University of Pretoria.
 ##### Misc Tools
 [`Bun`](https://bun.sh)
 [`Webpack`](https://webpack.js.org)
+[`Vite`](https://vitejs.dev)
+[`esbuild`](https://esbuild.github.io)
 [`AnimeJS`](https://animejs.com)
 [`SocketIO`](https://socket.io)
 [`LottieTools`](https://lottiefiles.com)
